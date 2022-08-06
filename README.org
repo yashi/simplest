@@ -1,0 +1,1 @@
+This is a simple [[https://docs.zephyrproject.org/latest/develop/modules.html][Zephyr module]].
